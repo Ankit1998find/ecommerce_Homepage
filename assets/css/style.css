@@ -180,6 +180,9 @@ body {
   background: var(--black);
   padding: 20px 0px;
 }
+.footer-nav-link{
+ color:#fff !important;
+}
 .footer-nav-link:hover,
 .menu-top .menu-title,
 .search-btn:hover {
